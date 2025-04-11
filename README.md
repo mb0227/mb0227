@@ -3,11 +3,11 @@
 
 - 🔭 I’m currently pursuing **my Bachelors Degree in CS at UET Lahore**
 
-- 🌱 I’m currently learning **Neural Networks, Deep Learning and App Development**
+- 🌱 I’m currently learning **Neural Networks, Deep Learning and Web Development**
 
 - 🤝 I’m currently working on **Projects of DBMS, OOP and EE**
 
-- 👨‍💻 My Portfolio [https://linktr.ee/admin](https://linktr.ee/admin)
+- 👨‍💻 My Portfolio [https://mb0227.github.io/Portfolio/](https://mb0227.github.io/Portfolio/)
 
 - 💬 Ask me about **C, C++, C#, HTML, CSS, JS, SQL and Python**
 
